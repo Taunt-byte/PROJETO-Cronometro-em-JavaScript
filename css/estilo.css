@@ -1,0 +1,6 @@
+:root{
+--vermelho: #c22014;
+--cinza:#7e7a7a;
+--branco: rgb(241, 237, 237);
+--base-color: var(--vermelho) ;
+}
